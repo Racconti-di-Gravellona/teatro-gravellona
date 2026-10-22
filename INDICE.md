@@ -1,4 +1,4 @@
-# Locandine teatri – indice (foto 12/10/2026, cartella `Photos-1-001(2)`)
+# Locandine teatri – indice (foto 12/10/2026, cartella `locandine/`)
 
 Foto di bacheche del Teatro San Faustino: 18 scatti, locandine 1984–2008 + foto di scena.
 Tutte Compagnia Teatrale Gravellonese (nel 1984 come «Dal Tumbon»), Teatro/Cinema Teatro San Faustino.
