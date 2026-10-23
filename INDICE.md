@@ -26,11 +26,12 @@ Canale YouTube: `https://www.youtube.com/@compagniateatralegravellon7214` (id `U
 | 9 | NON TI CONOSCO PIÙ (commedia brillante 3 atti) | Aldo De Benedetti | 16-17-23 mag 1998, h 21.15 | Nando Carnevale | `...170551869.jpg` | no |
 | 10 | VITA DA LADRI (commedia dialettale 2 atti) | Giuseppe Barbavara | 11-18-19 dic 1999, h 21.15 | — | `...170621410.jpg` | no (candidata da caricare: Barbavara) |
 | 11 | LE DISAVVENTURE DELLA FAMIGLIA MAGNACAN (commedia dialettale 3 atti; «in ricordo di Giuseppe Barbavara») | Giuseppe Barbavara | 16-23-24 apr 2005, h 21.15 | Daniele Polato | `...171237995.jpg` | sì (`8n1zdJKMYfU`, «Le disavventure della famiglia Magnacan (Aprile 2005)») |
-| 12 | IL LETTO OVALE (adatt. Piccola Scena, S. Martino di Lupari PD) | Cooney e Chapman | sab 14 e 21 + dom 29 nov 2009, h 21 / 15.30 (sab 14 = 2009 da calendario); repliche 20 mar 2010 Borgolavezzaro e 10 apr 2010 Cilavegna (blog Concertodautunno 11/2009) | Dino Chittoglio | `...170611420.jpg` | no (candidata da caricare) |
-| 13 | UNA MOGLIE CON I BAFFI (trad./adatt. Enrico Vaime) | Raffy Shart | 16-23 feb + 1 mar (anno tagliato), h 21.15 | Nando Carnevale | `...171158969.jpg` (bacheca) | no |
-| 14 | UNA MOGLIE COI BAFFI – pannello foto di scena | — | feb–mar 2008 | — | `...170920696.jpg` | no |
-| 15 | FESTIVAL DELLA CANZONE – tabellone foto | — | 8 mag 2010 | — | `...170430357.jpg` | no |
-| 16 | A PIEDI NUDI NEL PARCO (commedia di Neil Simon, adatt. a Milano) | Neil Simon | sab h 21 + dom h 16 (articolo fotografato il 29-9-2016; quasi certamente 1–2 ott 2016, da confermare) | Anna Stefania Corniani | `...082751115.jpg` (ritaglio Weekend/Provincia Pavese) | no |
+| 12 | TOPI D'ALBERGO | — | da completare (locandina in arrivo) | Daniele Polato | (in arrivo) | no (da verificare) |
+| 13 | IL LETTO OVALE (adatt. Piccola Scena, S. Martino di Lupari PD) | Cooney e Chapman | sab 14 e 21 + dom 29 nov 2009, h 21 / 15.30 (sab 14 = 2009 da calendario); repliche 20 mar 2010 Borgolavezzaro e 10 apr 2010 Cilavegna (blog Concertodautunno 11/2009) | Dino Chittoglio | `...170611420.jpg` | no (candidata da caricare) |
+| 14 | UNA MOGLIE CON I BAFFI (trad./adatt. Enrico Vaime) | Raffy Shart | 16-23 feb + 1 mar (anno tagliato), h 21.15 | Nando Carnevale | `...171158969.jpg` (bacheca) | no |
+| 15 | UNA MOGLIE COI BAFFI – pannello foto di scena | — | feb–mar 2008 | — | `...170920696.jpg` | no |
+| 16 | FESTIVAL DELLA CANZONE – tabellone foto | — | 8 mag 2010 | — | `...170430357.jpg` | no |
+| 17 | A PIEDI NUDI NEL PARCO (commedia di Neil Simon, adatt. a Milano) | Neil Simon | sab h 21 + dom h 16 (articolo fotografato il 29-9-2016; quasi certamente 1–2 ott 2016, da confermare) | Anna Stefania Corniani | `...082751115.jpg` (ritaglio Weekend/Provincia Pavese) | no |
 
 ## Note
 
@@ -42,3 +43,4 @@ Canale YouTube: `https://www.youtube.com/@compagniateatralegravellon7214` (id `U
 - Prezzi: L. 4.000 (1984) → L. 10.000–12.000 (anni '90) → €6–7 (anni 2000).
 - Foto `...170440003.jpg` e `...171155454.jpg`: bacheche con locandine + foto di scena (ballerine, costumi).
 - Da chiedere a Matteo: anno di Una moglie con i baffi (bacheca); autori dei dialettali anonimi (Süch, Imprumesa, Bandë, Paradis); gli altri 4 autori dei «5 autori».
+- Show mancante (segnalato 23/10/2026): **Topi d'Albergo** (regia Daniele Polato), tra Magnacan (2005) e Il Letto ovale (2009). Locandina in arrivo; scheda da completare (autore, date, foto).
